@@ -135,13 +135,13 @@ body{
 
 .topo-corpo div:nth-of-type(2) p{
     font-family: 'Poppins', sans-serif;
-    font-weight: 700;
+    font-weight: 800;
     font-size: 4.0rem;
     color: #FFFCF9;
 }
 .digitando-efeito {
     font-family: 'Poppins', sans-serif;
-    font-weight: 800;
+    font-weight: 700;
     font-size: 4.0rem;
     color: #FFFCF9;
     text-transform: capitalize;
@@ -182,7 +182,8 @@ body{
     
 }
 .topo-corpo div:nth-of-type(2) a:hover{
-    background-color: #05070b;
+    background-color: #fc8d1e;
+
 }
 /*serviços do banner*/
 .posicionamento{
