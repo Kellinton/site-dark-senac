@@ -27,13 +27,6 @@ body{
     margin: 0 auto;
 }
 
-/*topo banner*/
-.topo-corpo{
-    background-image: url(../img/banner1.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 1000px;
-}
 
 /*topo menu*/
 .topo-corpo div:nth-child(1) nav{
@@ -65,8 +58,6 @@ body{
 }
 /*hover menu*/
 
-
- 
  .topo-corpo div:nth-child(1) ul a:after{
      content: "";
      position: absolute;
@@ -90,6 +81,10 @@ body{
     width: 200px;
     height: 118px;
     text-indent: -9999px;  
+}
+/*menu-hamburuger*/
+.topo-corpo div:nth-child(1) img{
+    display: none;
 }
 
 /*redes sociais do topo*/
@@ -185,6 +180,15 @@ body{
     background-color: #fc8d1e;
 
 }
+
+/*topo banner*/
+.topo-corpo{
+    background-image: url(../img/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
 /*serviços do banner*/
 .posicionamento{
     position: relative;
