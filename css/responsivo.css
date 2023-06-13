@@ -9,6 +9,7 @@
     @media (max-width: 600px){
 
         /*menu*/
+        
         .topo-corpo div:nth-child(1) nav{      
            width: 100%;
            justify-content: space-around;
